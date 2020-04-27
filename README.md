@@ -7,3 +7,4 @@ learning about Github
 how it works
 what are the commands
 how we can use it
+new branch
